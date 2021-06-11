@@ -1,3 +1,3 @@
 document.onkeypress = function(key){
-    document.getElementById("Text").textContent = "keyCode: " + key.keyCode
+    document.getElementById("Text").textContent = "KeyCode: " + key.keyCode
 }
